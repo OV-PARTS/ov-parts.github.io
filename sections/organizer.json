@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Meng Wei",
+        "position": "HKU",
+        "website": "https://scholar.google.com.hk/citations?user=Wx8ChLcAAAAJ&hl=zh-CN",
+        "image": "/images/meng-wei.jpg"
+    },
+    {
+        "name": "Xiaoyu Yue",
+        "position": "USYD",
+        "website": "https://yuexy.github.io/#/",
+        "image": "/images/xiaoyu-yue.jpg"
+    },
+    {
+        "name": "Wenwei Zhang",
+        "position": "Shanghai AI Lab",
+        "website": "https://zhangwenwei.cn/",
+        "image": "/images/wenwei-zhang.jpg"
+    },
+    {
+        "name": "Xihui Liu",
+        "position": "HKU",
+        "website": "https://xh-liu.github.io/",
+        "image": "/images/xihui-liu.jpg"
+    },
+    {
+        "name": "Shu Kong",
+        "position": "UMacau, Texas A&M",
+        "website": "https://aimerykong.github.io/",
+        "image": "/images/shu-kong.jpg"
+    },
+    {
+        "name": "Jiangmiao Pang",
+        "position": "Shanghai AI Lab",
+        "website": "https://oceanpang.github.io/",
+        "image": "/images/jiangmiao-pang.jpg"
+    }
+]
